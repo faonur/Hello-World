@@ -1,5 +1,4 @@
 This file is added for t(master line)ag test. [Tagging later]
-I edited this in master
 This line is (master line)added [iss02]
 =======
 Hobaaa I [extra words added in iss05]deleted this line an replaced it completely in [iss04]
