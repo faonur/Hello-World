@@ -1,2 +1,3 @@
-This file is added for tag test. [Tagging later]
-This line is added [iss02]
+This file is added for t(master line)ag test. [Tagging later]
+I edited this in master
+This line is (master line)added [iss02]
