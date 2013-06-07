@@ -1,5 +1,5 @@
 Hobaaa I deleted this line an replaced it completely in [iss04]
-I added thi line too [iss02]
-This line is added [iss02]
+I added thi line too [iss04]
+This line is added [iss04]
 
-Heeey here is {iss02} too
+Heeey here is {iss04} too
