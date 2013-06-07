@@ -1,9 +1,8 @@
 This file is added for t(master line)ag test. [Tagging later]
-I edited this in master
 This line is (master line)added [iss02]
 =======
-Hobaaa [some words are deleted in master]an replaced it completely in [iss04]
-I added thi line too [iss04]
-This line is added [iss04]
+Hobaaa I [extra words added in iss05]deleted this line an replaced it completely in [iss04]
+I added thi line too [iss05]
+This line is added [iss05]
 
 Heeey here is {iss04} too
