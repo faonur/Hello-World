@@ -1,6 +1,6 @@
 This file is added for t(master line)ag test. [Tagging later]
 This line is (master line)added [iss02]
-=====
+=======  this is adede in featureA
 Hobaaa I [extra words added in iss05]deleted this line an replaced it completely in [iss04]
 I added thi line too [iss05]
 This line is added [iss05]
